@@ -30,7 +30,7 @@ This project provides a lightweight, terminal-based database management system (
 
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/M-akram101/DBMS.git
 
 # Create and navigate to the directory
 mkdir <directory_name>
